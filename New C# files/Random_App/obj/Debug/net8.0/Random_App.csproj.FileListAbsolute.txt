@@ -1,0 +1,14 @@
+/home/ahmedsamir/C#/New C# files/Random_App/bin/Debug/net8.0/Random_App
+/home/ahmedsamir/C#/New C# files/Random_App/bin/Debug/net8.0/Random_App.deps.json
+/home/ahmedsamir/C#/New C# files/Random_App/bin/Debug/net8.0/Random_App.runtimeconfig.json
+/home/ahmedsamir/C#/New C# files/Random_App/bin/Debug/net8.0/Random_App.dll
+/home/ahmedsamir/C#/New C# files/Random_App/bin/Debug/net8.0/Random_App.pdb
+/home/ahmedsamir/C#/New C# files/Random_App/obj/Debug/net8.0/Random_App.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmedsamir/C#/New C# files/Random_App/obj/Debug/net8.0/Random_App.AssemblyInfoInputs.cache
+/home/ahmedsamir/C#/New C# files/Random_App/obj/Debug/net8.0/Random_App.AssemblyInfo.cs
+/home/ahmedsamir/C#/New C# files/Random_App/obj/Debug/net8.0/Random_App.csproj.CoreCompileInputs.cache
+/home/ahmedsamir/C#/New C# files/Random_App/obj/Debug/net8.0/Random_App.dll
+/home/ahmedsamir/C#/New C# files/Random_App/obj/Debug/net8.0/refint/Random_App.dll
+/home/ahmedsamir/C#/New C# files/Random_App/obj/Debug/net8.0/Random_App.pdb
+/home/ahmedsamir/C#/New C# files/Random_App/obj/Debug/net8.0/Random_App.genruntimeconfig.cache
+/home/ahmedsamir/C#/New C# files/Random_App/obj/Debug/net8.0/ref/Random_App.dll
